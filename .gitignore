@@ -19,3 +19,6 @@
 # Logs
 *.log
 !errors.log
+
+# Compiled DMGs
+*.dmg
