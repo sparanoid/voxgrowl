@@ -1,8 +1,10 @@
-VoxGrowl Growl Webkit Views for Vox
------------------------------------
+VoxGrowl Growl Webkit Views
+---------------------------
 
-Author:	Sparanoid
+Version:	1.1
 
-Email:	info@sparanoid.com
+Author:		Sparanoid
 
-Site:	http://sparanoid.com/
+Email:		info@sparanoid.com
+
+URL:		http://sparanoid.com/project/voxgrowl-and-slimbox/
