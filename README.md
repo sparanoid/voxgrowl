@@ -1,10 +1,10 @@
 VoxGrowl Growl Webkit Views
 ---------------------------
 
-Version:	1.1
+Version: 1.2
 
-Author:		Sparanoid
+Author: Tunghsiao Liu
 
-Email:		info@sparanoid.com
+Email: info@sparanoid.com
 
-URL:		http://sparanoid.com/project/voxgrowl-and-slimbox/
+URL: http://sparanoid.com/project/slimbox-and-voxgrowl/
