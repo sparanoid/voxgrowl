@@ -18,7 +18,7 @@ body {
 #tips>div {
 	padding: 6px 10px;
 	border: 1px solid rgba(255,255,255,0.1);
-	border-top-color: rgba(255,255,255,0.2);
+	border-top-color: rgba(255,255,255,0.25);
 	border-bottom-color: rgba(0,0,0,1);
 	-webkit-border-radius: 4px;
 }
@@ -32,16 +32,30 @@ body {
 	top: 0;
 	left: 0;
 	width: 183px;
-	height: 211px;
+	height: 183px;
 	background: url(images/case.png) top left no-repeat;
+	z-index: 100;
+}
+
+#disc {
+	position: absolute;
+	top: 45px;
+	left: 8px;
+	width: 166px;
+	height: 166px;
+	background: url(images/disc.png) top left no-repeat;
+	z-index: -100;
 }
 
 #icon img {
-	width: 175px;
-	height: 175px;
-	margin-top: 4px;
-	margin-left: 4px;
-	background: #333;
+	width: 183px;
+	height: 183px;
+}
+
+#title, #text {
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 #title {
@@ -63,11 +77,9 @@ body {
 	0% {
 		-webkit-box-shadow: inset 0 0 0 rgba(0,227,255,0);
 	}
-	
 	50% {
-		-webkit-box-shadow: inset 0 10px 20px rgba(0,227,255,0.15);
+		-webkit-box-shadow: inset 0 10px 25px rgba(0,227,255,0.15);
 	}
-	
 	100% {
 		-webkit-box-shadow: inset 0 0 0 rgba(0,227,255,0);
 	}
