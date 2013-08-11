@@ -1,10 +1,10 @@
-VoxGrowl Growl Webkit Views
----------------------------
+# VoxGrowl Growl Webkit Views
 
-Version: 1.2
+See: http://sparanoid.com/work/slimbox-and-voxgrowl/
 
-Author: Tunghsiao Liu
+## Author
 
-Email: info@sparanoid.com
+**Tunghsiao Liu**
 
-URL: http://sparanoid.com/project/slimbox-and-voxgrowl/
+- Twitter: @[tunghsiao](http://twitter.com/tunghsiao)
+- GitHub: @[sparanoid](http://github.com/sparanoid)
